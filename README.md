@@ -1,1 +1,1 @@
-# Notes-for-Rainmeter-Skins
+# [Wiki](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki)
