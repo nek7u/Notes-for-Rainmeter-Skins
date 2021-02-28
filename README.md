@@ -1,6 +1,6 @@
 Something about Rainmeter skins for creators.  
 
-#### Topics  
+### Topics  
 
 * [How to reduce a cpu and memory usage of Rainmeter skins](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/Reduce-a-cpu-and-memory-usage)  
 * [Sections load order on Skin load](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/Sections-load-order-on-Skin-load)  
@@ -9,7 +9,7 @@ Something about Rainmeter skins for creators.
 * [What is the best Regular expressions for WebaParser measure to fetch a whole contents?](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/WebParser-RegExp)  
 * [WebParser measure and curl.exe features comparation](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/WebParser-v.s.-curl.exe)  
 
-#### References  
+### References  
 * [[Rainmeter]](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki#rainmeter)  
 * [Color](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki#color)  
 * [Fonts](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki#fonts)  
