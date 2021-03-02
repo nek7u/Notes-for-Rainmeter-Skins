@@ -1,4 +1,5 @@
 Something about Rainmeter skins for creators, who knows how to write a basic skin codes.  
+> [Rainmeter Docs](https://docs.rainmeter.net/)  
 
 ### Topics  
 * [How to reduce a cpu and memory usage of Rainmeter skins](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/Reduce-a-cpu-and-memory-usage)  
