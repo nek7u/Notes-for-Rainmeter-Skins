@@ -3,7 +3,7 @@ Something about Rainmeter skins for creators.
 ### Topics  
 * [How to reduce a cpu and memory usage of Rainmeter skins](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/Reduce-a-cpu-and-memory-usage)  
 * [Load order of sections on skin loading](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/Load-order-of-sections-on-skin-loading)  
-* [Advanced usage of nesting variables](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/Advanced-Usage-of-nesting-variables)  
+* [Advanced usage of nesting variables](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/Advanced-usage-of-nesting-variables)  
 * [Some Rainmeter skin codes](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/Some-Rainmeter-skin-codes)  
 * [What is the best Regular expressions for WebaParser measure to fetch a whole contents?](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/WebParser-RegExp)  
 * [WebParser measure and curl.exe features comparation](https://github.com/nek7u/Notes-for-Rainmeter-Skins/wiki/WebParser-v.s.-curl.exe)  
