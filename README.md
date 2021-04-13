@@ -1,5 +1,3 @@
-[test] pull-request form other branch.
-
 Something about Rainmeter skins for creators, who knows how to write a basic skin codes.  
 > [Rainmeter Docs](https://docs.rainmeter.net/)  
 
