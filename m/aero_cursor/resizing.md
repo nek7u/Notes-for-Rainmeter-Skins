@@ -34,8 +34,6 @@ LeftMouseUpAction=[]
 |![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/Pen.png)|Pen|MAKEINTRESOURCE(32631)|
 
 
-location: `C:\Windows\Cursor\`  
-
 |Preview|File Name|Name - [LoadCursorA function](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-loadcursora#parameters)|
 |:-:|:-|:-|
 |![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_ns.png)|aero_ns.cur|IDC_SIZENS|
@@ -44,6 +42,9 @@ location: `C:\Windows\Cursor\`
 |![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_nesw.png)|aero_nesw.cur|IDC_SIZENESW|
 |![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_move.png)|aero_move.cur|IDC_SIZEALL|
 
+Location: `C:\Windows\Cursor\`  
+
+　  
 |Release|Windows|aero_xxx.cur|
 |:-:|:-:|:-:|
 |2000|2000|?|
