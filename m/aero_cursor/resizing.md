@@ -1,6 +1,6 @@
 
 `MouseActionCursorName`
-> [MouseActionCursorName](https://docs.rainmeter.net/manual/mouse-actions/#MouseActionCursorName) | Rainmeter Docs  
+> [MouseActionCursorName](https://docs.rainmeter.net/manual/mouse-actions/#MouseActionCursorName) - Rainmeter Docs  
 
 <details><summary>Example Skin.ini</summary>
   
@@ -34,7 +34,7 @@ LeftMouseUpAction=[]
 |![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/Cross.png)|Cross|IDC_CROSS|
 |![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/Pen.png)|Pen|MAKEINTRESOURCE(32631)|
 
-> [Mouse.cpp](https://github.com/rainmeter/rainmeter/blob/master/Library/Mouse.cpp#L148), [Mouse.h](https://github.com/rainmeter/rainmeter/blob/master/Library/Mouse.h#L47) | Rainmeter repository on GitHub  
+> [Mouse.cpp](https://github.com/rainmeter/rainmeter/blob/master/Library/Mouse.cpp#L148), [Mouse.h](https://github.com/rainmeter/rainmeter/blob/master/Library/Mouse.h#L47) - Rainmeter repository on GitHub  
 
 　  
 
@@ -47,7 +47,7 @@ LeftMouseUpAction=[]
 |![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_move.png)|aero_move.cur|IDC_SIZEALL|
 
 Location: `C:\Windows\Cursor\`  
-> [LoadCursorA function](https://docs.microsoft.com/windows/win32/api/winuser/nf-winuser-loadcursora) | Microsoft Docs　　
+> [LoadCursorA function](https://docs.microsoft.com/windows/win32/api/winuser/nf-winuser-loadcursora) - Microsoft Docs　　
 
 　  
 |Release|Windows|aero_xxx.cur|
