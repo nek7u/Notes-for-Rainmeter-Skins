@@ -22,7 +22,14 @@ LeftMouseUpAction=[]
 ```
 
 location: `C:\Windows\Cursor\`  
-`aero_ew.cur` `aero_nesw.cur` `aero_ns.cur` `aero_nwse.cur` `aero_move.cur`
+
+|Preview|File Name|
+|:-:|:-|
+|![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_ns.png)|aero_ns.cur|
+|![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_ew.png)|aero_ew.cur|
+|![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_nwse.png)|aero_nwse.cur|
+|![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_nesw.png)|aero_nesw.cur|
+|![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/aero_move.png)|aero_move.cur|
 
 |Release|Windows|aero_xxx.cur|
 |:-:|:-:|:-:|
