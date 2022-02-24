@@ -60,6 +60,7 @@ Location: `C:\Windows\Cursor\`
 |2015|10|:heavy_check_mark:|
 |2021|11|:heavy_check_mark:|
 
+<!-- I have clean installed OSs and verifyed wheather `aero_xxx.cur` files are exist.  -->
 
 
 
