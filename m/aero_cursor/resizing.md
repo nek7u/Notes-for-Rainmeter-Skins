@@ -62,7 +62,7 @@ Location: `C:\Windows\Cursor\`
 |2015|10|:heavy_check_mark:|
 |2021|11|:heavy_check_mark:|
 
-<!-- I have clean installed OSs and verifyed wheather `aero_xxx.cur` files are exist.  -->
+<!-- I have clean installed OSs and verifyed whether `aero_xxx.cur` files are exist.  -->
 
 > [Rainmeter](https://www.rainmeter.net)  
 > [PluginWebView](https://github.com/khanhas/PluginWebView) by [khanhas](https://github.com/khanhas)  
