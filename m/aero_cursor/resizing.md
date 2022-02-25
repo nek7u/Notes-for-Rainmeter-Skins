@@ -64,9 +64,10 @@ Location: `C:\Windows\Cursor\`
 
 <!-- I have clean installed OSs and verifyed wheather `aero_xxx.cur` files are exist.  -->
 
-
-
-
+> [Rainmeter](https://www.rainmeter.net)  
+> [PluginWebView](https://github.com/khanhas/PluginWebView) by [khanhas](https://github.com/khanhas)  
+> [Mouse.dll](https://github.com/NighthawkSLO/Mouse.dll) by [NighthawkSLO](https://github.com/NighthawkSLO)  
+> [HotKey.dll](https://github.com/brianferguson/HotKey.dll) by [Brain](https://github.com/brianferguson)  
 
 
 
