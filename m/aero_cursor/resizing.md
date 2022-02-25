@@ -68,6 +68,7 @@ Location: `C:\Windows\Cursor\`
 > [PluginWebView](https://github.com/khanhas/PluginWebView) by [khanhas](https://github.com/khanhas)  
 > [Mouse.dll](https://github.com/NighthawkSLO/Mouse.dll) by [NighthawkSLO](https://github.com/NighthawkSLO)  
 > [HotKey.dll](https://github.com/brianferguson/HotKey.dll) by [Brain](https://github.com/brianferguson)  
+> EdgeWebView by Microsoft (Size 477MB - `C:\Users\%USERNAME%\AppData\Local\Microsoft\EdgeWebView`) 
 
 
 
