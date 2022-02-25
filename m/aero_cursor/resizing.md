@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/nek7u/Notes-for-Rainmeter-Skins/main/m/aero_cursor/webview.youtube.gif)  
+
 
 `MouseActionCursorName`
 > [MouseActionCursorName](https://docs.rainmeter.net/manual/mouse-actions/#MouseActionCursorName) - Rainmeter Docs  
