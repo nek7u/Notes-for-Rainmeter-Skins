@@ -10,12 +10,17 @@ URL=
 Meter=Image
 W=80
 H=80
-LeftMouseUpAction=[!SetOption sWebParser URL "https://example.com/"][!CommandMeasure sWebParser "Update"][!UpdateMeasure sWebParser]
+LeftMouseUpAction=[!CommandMeasure sWebParser "Update"][!SetOption sWebParser URL "https://example.com/"][!UpdateMeasure sWebParser]
 ```
 
 <p><br></p?
 
 **[WebParser](https://docs.rainmeter.net/manual/measures/webparser/)** measure
+
+```
+[!CommandMeasure sWebParser "Update"][!SetOption sWebParser URL "https://example.com/"][!UpdateMeasure sWebParser]
+```
+or
 ```
 [!SetOption sWebParser URL "https://example.com/"][!CommandMeasure sWebParser "Update"][!UpdateMeasure sWebParser]
 ```
